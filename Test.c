@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-	int x=7;
+	int x=11;
 	getchar();
 	return 0;
 }
