@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-	int m;
+	int m=1907;
 	return 0;
 }
