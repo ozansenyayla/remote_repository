@@ -2,7 +2,7 @@
 
 int main(){
 	int m=1907;
-	int p=1111;
+	int p=01;
 	
 	return 0;
 }
