@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-	int r=5;
+	asdas
 	return 0;
 }
