@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-	int r;
+	printf("Local Changes");
 	return 0;
 }
