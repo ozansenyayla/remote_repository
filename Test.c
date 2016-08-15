@@ -1,6 +1,6 @@
 #include<stdio.h>
 int f(){
-	return rand(0,5);
+	return rand(0,100);
 }
 int r(){
 	return 1;
