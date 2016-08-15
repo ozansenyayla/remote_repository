@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\Users\OS\project_2\project_2.sdk\FSBL\Debug\FSBL.elf
+	C:\Users\OS\project_2\project_2.sdk\design_2_wrapper_hw_platform_0\design_2_wrapper.bit
+	C:\Users\OS\project_2\project_2.sdk\HelloWorld\Debug\HelloWorld.elf
+}
