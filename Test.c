@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-	asdas
+	int k;
 	return 0;
 }
