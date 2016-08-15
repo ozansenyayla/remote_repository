@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-	asdas
+	printf("Remote Changed!");
 	return 0;
 }
