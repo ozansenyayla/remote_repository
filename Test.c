@@ -4,6 +4,6 @@ int f(){
 }
 int main(){
 	int k=0;
-	printf("Hello World");
+	printf("Hello TURKEY");
 	return 0;
 }
