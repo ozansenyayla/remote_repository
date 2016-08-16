@@ -3,7 +3,7 @@ int f(){
 	return rand(0,50);
 }
 int r(){
-	return 1;
+	return 0;
 }
 void foo(){
 	
