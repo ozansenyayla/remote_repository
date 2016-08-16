@@ -4,7 +4,7 @@ int f(){
 }
 int r(){
 	int count=0;
-	return 0;
+	return 5;
 }
 void foo(){
 	
