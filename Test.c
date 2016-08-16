@@ -1,6 +1,6 @@
 #include<stdio.h>
 int f(){
-	return rand(0,100);
+	return rand();
 }
 int necati(){
 	int count=0;
