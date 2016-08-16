@@ -2,7 +2,7 @@
 int f(){
 	return rand(0,1000);
 }
-int r(){
+int necati(){
 	int count=0;
 	return 5;
 }
