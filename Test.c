@@ -4,7 +4,7 @@ int f(){
 }
 int necati(){
 	int count=0;
-	return 5;
+	return 1000;
 }
 void foo(){
 	
