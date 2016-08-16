@@ -5,6 +5,9 @@ int f(){
 int r(){
 	return 1;
 }
+void foo(){
+	
+}
 int main(){
 	int k=0;
 	printf("Hello Roketsan");
