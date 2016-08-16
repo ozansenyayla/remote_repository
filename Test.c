@@ -11,6 +11,6 @@ void foo(){
 }
 int main(){
 	int k=0;
-	printf("Hello Roketsan");
+	printf("Hello World");
 	return 0;
 }
